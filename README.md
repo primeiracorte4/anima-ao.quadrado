@@ -8,7 +8,7 @@ div {
   height: 100px;
   background-color: pink;
   animation-name: example;
-  animation-duration: 4s;
+  animation-duration: 5s;
 }
 
 @keyframes example {
