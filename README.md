@@ -6,13 +6,13 @@
 div {
   width: 100px;
   height: 100px;
-  background-color: red;
+  background-color: pink;
   animation-name: example;
   animation-duration: 4s;
 }
 
 @keyframes example {
-  from {background-color: red;}
+  from {background-color: blue;}
   to {background-color: yellow;}
 }
 </style>
